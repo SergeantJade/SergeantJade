@@ -121,6 +121,5 @@ Student Shubham = {
 
 *"The best error message is the one that never shows up."* — Thomas Fuchs
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom_Wave.svg)
-
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=00C9FF&height=100&section=footer)
 </div>
